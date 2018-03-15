@@ -1,7 +1,8 @@
 # line-bot-as-google-sheets
 
 
-![](/img/line.png =100)
+<img src="./img/line.png" height = "200" alt="line" align=center />
+
 
 ## License
 
