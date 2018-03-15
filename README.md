@@ -1,4 +1,5 @@
 # line-bot-as-google-sheets
+利用heroku+googlesheets-api+line-bot做的租借器材機器人
 
 ## Result
 
