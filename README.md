@@ -1,7 +1,7 @@
 # line-bot-as-google-sheets
 
 
-![](https://drive.google.com/file/d/1O385Zf0vsl8pHU3qkX6L2XtDIYQ7xGrI/view?usp=sharing)
+![](/img/line.png)
 
 ## License
 
