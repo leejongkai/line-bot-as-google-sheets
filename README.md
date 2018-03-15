@@ -1,15 +1,16 @@
 # line-bot-as-google-sheets
-利用heroku+googlesheets-api+line-bot做的租借器材機器人
+利用Node.js+heroku+googlesheets-api+line-bot做的租借器材機器人
 
 ## Result
 
-### line 對話
+### line 對話結果呈現
 <img src="./img/line.png" height = "500" alt="line" align=center />
 
+## google-sheets
 ### 在google-sheets打入機器人要問的問題
 <img src="./img/lineInput.png" height = "200" alt="line" align=center />
 
-### 在google-sheets打入機器人的回答
+### 在google-sheets新增表單打入機器人的回答
 <img src="./img/lineOutput.png" height = "200" alt="line" align=center />
 
 
