@@ -1,7 +1,9 @@
 # line-bot-as-google-sheets
 
 
-<img src="./img/line.png" height = "200" alt="line" align=center />
+<img src="./img/line.png" height = "300" alt="line" align=center />
+<img src="./img/lineInput.png" height = "300" alt="line" align=center />
+<img src="./img/lineOutput.png" height = "300" alt="line" align=center />
 
 
 ## License
